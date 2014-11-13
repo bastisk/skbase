@@ -1,4 +1,3 @@
-skbase
+SKBase - a web Filemanager
 ======
-
-A Web Filemanager
+SKBase ist ein Filemanagement Script angelehnt an das kill0rz Filemanagement Script. Dieses Projekt wird auf Sourceforge gehostet.
