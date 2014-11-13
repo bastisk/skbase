@@ -1,0 +1,120 @@
+body{
+	margin:0;
+	background-color: #F5F5F5;
+	font-family: 'PT Sans', sans-serif;
+}
+
+input{
+	font-size: 17px;
+	border-radius: 4px;
+	border: 1px solid #E45009;
+	margin: 5px;
+}
+
+#link {
+	border-left: 2px solid white;
+	color: white;
+	
+}
+.navigator {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+}
+
+.navigator li.active{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	background-color: #A2D7D8;
+}
+
+table{
+	background-color: #F7F7F7;
+	border: 1px solid rgba(0, 0, 0, 0.03);
+	border-radius: 3px;
+	margin: 0 auto;
+}
+
+.container {
+font-family: 'PT Sans', sans-serif;
+}
+
+.dropzone {
+	height: auto;
+}
+.sidebar {
+	background-color: #93B2C7;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding: 10px;
+	vertical-align:top;
+}
+
+.tools {
+	padding: 10px;
+}
+
+.uploadbox {
+	margin-top: 20px;
+	margin-left: 30px;
+	display: inline-block;
+	vertical-align:top;
+
+}
+
+a.sidebar:link{
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+	text-decoration: none;
+	width: 200px;
+}
+a.sidebar:visited{}
+a.sidebar:hover{
+	background-color: #718999;
+	border-bottom: 4px solid orange;
+}
+
+.header h2 {
+  color: #6A8D9D;
+  border-bottom: 1px solid #DDDDDD;
+  text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+.zenter{
+	width: 500px;
+	margin: 10 auto;
+	background-color:#EBEBEB;
+	border-radius: 10px;
+	border: 5px solid #93B2C7;
+	padding: 10px;
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+	font-size: 12px;
+}
+
+/* layout.css Style */
+.upload-drop-zone {
+	height: 200px;
+	border-width: 2px;
+	margin-bottom: 20px;
+}
+
+/* skin.css Style*/
+.upload-drop-zone {
+	color: #ccc;
+	border-style: dashed;
+	border-color: #ccc;
+	line-height: 200px;
+	text-align: center
+}
+.upload-drop-zone.drop {
+	color: #222;
+	border-color: #222;
+}
+
+#upload {
+	height: 250px;
+}
