@@ -1,6 +1,6 @@
 SKBase - a web filemanager
 ======
-SKBase is a small an lightweight web filemanager. 
+SKBase is a small and lightweight web filemanager. 
 
 Installation
 ------------
